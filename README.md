@@ -6,6 +6,4 @@
 
 **You can take a look to my sample iOS projects.**
 
-*True ignorance is not the absence of knowledge, but the refusal to acquire it.”*
-
-― *Karl R. Popper*
+*The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.” -Stephen Hawking.*
