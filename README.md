@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Swift&SwiftUI and JS
-- 🤔 I’m looking for help with improving myself on iOS development.
+- 🌱 I’m using Swift&SwiftUI
 - 📫 How to reach me: yazarmahmut34@gmail.com
 
 **You can take a look to my sample iOS projects.**
