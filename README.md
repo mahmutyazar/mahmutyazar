@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m using Swift&SwiftUI
+- 🌱 I’m using Swift&UIKit
 - 📫 How to reach me: yazarmahmut34@gmail.com
 
 **You can take a look to my sample iOS projects.**
